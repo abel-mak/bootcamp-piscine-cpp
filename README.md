@@ -11,7 +11,7 @@ class A
   void f(int i);
 };
 ```
-- An object of class A will look like this
+An object of class A will look like this
 ```
  ____________
 |   int a    |
