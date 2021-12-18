@@ -17,8 +17,8 @@ class A
 |   int a    |
  ------------
 ```
-- No information is placed in an n except the integer a specifred by the user. No information relating to (non-virtual) member functions is placed in the object.
-- A call of the member function A::f
+No information is placed in an A except the integer a specified by the user. No information relating to (non-virtual) member functions is placed in the object.
+A call of the member function A::f
 ```
 A* pa; 
 pa->f(2);
